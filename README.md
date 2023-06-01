@@ -5,13 +5,13 @@ This project is to build solution to cater to Credit Card Fraud detection. This 
 
 As part of the project, broadly, below are the tasks 
 Mid submission:
-Task 1: Load the transactions history data (card_transactions.csv) in a NoSQL database.
-Task 2: Ingest the relevant data from AWS RDS to Hadoop.
-Upload a zip file containing the following:
-Task 4: After creating the table, you need to load the relevant data in the lookup table.
-Final Submission: 
-Task 5: Create a streaming data processing framework that ingests real-time POS transaction data from Kafka. The transaction data is then validated based on the three rules’ parameters (stored in the NoSQL database) discussed previously.
-Task 6: Update the transactions data along with the status (fraud/genuine) in the card_transactions table.
+Task 1: Load the transactions history data (card_transactions.csv) in a NoSQL database.\
+Task 2: Ingest the relevant data from AWS RDS to Hadoop.\
+Upload a zip file containing the following:\
+Task 4: After creating the table, you need to load the relevant data in the lookup table.\
+Final Submission: \
+Task 5: Create a streaming data processing framework that ingests real-time POS transaction data from Kafka. The transaction data is then validated based on the three rules’ parameters (stored in the NoSQL database) discussed previously.\
+Task 6: Update the transactions data along with the status (fraud/genuine) in the card_transactions table.\
 Task 7: Store the ‘postcode’ and ‘transaction_dt’ of the current transaction in the look-up table in the NoSQL database if the transaction was classified as genuine.
 
 ![image](https://github.com/srinay2007/creditcard_fraud_detection/assets/98680554/9a1f07b8-9b05-4677-8c9f-bc5a7e263bbb)
