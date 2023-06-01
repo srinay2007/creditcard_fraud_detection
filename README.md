@@ -3,7 +3,7 @@ Creditcard_fraud_detection Project
 
 This project is to build solution to cater to Credit Card Fraud detection. This will detect fraudelent transactions, when card member swipes their card for payment, the transaction is classified as fraudulent or authentic based on a set of predefined rules. If fraud is detected, then the transaction must be declined. Incorrectly classifying a transaction as fraudulent will incur huge losses to the company and also provoke negative consumer sentiment.
 
-As part of the project, broadly, below are the tasks 
+As part of the project, broadly, below are the tasks \
 **Mid submission:** \
 **Task 1**: Load the transactions history data (card_transactions.csv) in a NoSQL database.\
 **Task 2**: Ingest the relevant data from AWS RDS to Hadoop.\
